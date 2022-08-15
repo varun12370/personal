@@ -1,4 +1,4 @@
-var password = "varun"
+var password = "quizzo"
 
 function passcheck() {
 
