@@ -42,13 +42,6 @@ a{
     text-decoration: none;
     color: white;
 }
-#game{
-    font-family: 'PT Serif', serif;
-    background-image: url(https://previews.123rf.com/images/sunnysmilestock/sunnysmilestock1708/sunnysmilestock170800001/83191097-background-for-indian-republic-day.jpg);
-    background-size: 100% 100%;
-    color: white;
-    background-repeat: no-repeat;
-}
 h2{
     color: rgb(63, 235, 20);
     font-family: 'Yanone Kaffeesatz', sans-serif;
