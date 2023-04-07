@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
 #index{
 font-family: 'PT Serif', serif;
-background-image: url(./Assets/photo2.jpg);
+background-image: url(https://varun12370.github.io/Personal/Assets/photo2.jpg);
 background-size: cover;
 color: yellow;
 background-repeat: no-repeat;
@@ -48,4 +48,8 @@ h2{
 }
 span{
     color: red;
+}
+mark{
+  color:#0307ff;
+  background-color:#ffffff;
 }
